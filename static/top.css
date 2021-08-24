@@ -39,3 +39,6 @@ h1, p{
     color: tomato;
 }
 
+p {
+    font-size: 1.125rem;
+}
