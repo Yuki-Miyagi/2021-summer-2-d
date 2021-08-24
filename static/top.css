@@ -24,9 +24,10 @@ html {
     justify-content: space-around;
 }
 
-.top-btn button {
-    display: block;
-    margin-left: 40px;
+#top-btn button {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: turquoise;
 }
 
 .top-content {
@@ -35,10 +36,13 @@ html {
     margin: 0;
     padding: 0;
 }
-h1, p{
+h1{
     color: tomato;
+    font-size: 3rem;
 }
 
 p {
-    font-size: 1.125rem;
+    font-size: 1.6rem;
+    color: tomato;
 }
+
